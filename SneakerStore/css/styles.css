@@ -1,0 +1,208 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+font-family:cursive;
+padding-left: 40%;
+padding-top: 5%;
+}
+p{
+    color:#8f8f8f;
+}
+.navbar{
+    padding-bottom: 1.5%;
+    font-size: 1.2rem;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+}
+.shop{
+    padding-left: 4%;
+    padding-top: 4%;
+}
+.dropdownlist{
+    font-family: cursive;
+}
+.searchbar{
+    width: 100%;
+    font-size: large;
+}
+.row{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#title{
+    font-family: cursive;
+    color: aqua;
+}
+.picture{
+    padding-right: 50%;
+    margin-right: 20%;
+}
+#features{
+    background-color: white;
+    padding-bottom: 3%;
+}
+.nav-item{
+    padding-left: 20px;
+}
+#feature2{
+    padding-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #f9f9f9;
+}
+.feature2-text{
+    padding-left: 20%;  
+    font-weight: 400;
+}
+.feature-title{
+text-align: center;
+font-weight: 200;
+}
+.feature-box{
+    text-align: center;
+    padding-left: 5%;
+    padding-top: 3%;
+}
+.icon{
+    text-align: center;
+    color: #FFC4C4;
+    padding-bottom: 10%;
+}
+.icon:hover{
+    color:#54BAB9;
+}
+#trendings{
+    padding-top: 2%;
+    text-align: center;
+    padding-bottom: 5%;
+    
+}
+.trending-text{
+    text-align: center;
+    padding-bottom: 3%;
+}
+.carousel-control-prev{
+    color:black;
+    padding-right:10% ;
+}
+.carousel-control-next{
+    color:black;
+    padding-left:10% ;
+}
+.trending_icon{
+    color:black;
+    
+}
+.hrdivider {
+    position: relative;
+    margin-bottom: 7%;
+    width: 100%;
+    text-align: center;
+  }
+  
+ .hrdivider span {
+    position: absolute;
+    top: -30px;
+    left: 40%;
+    background: #fff;
+    padding: 0 20px;
+    font-weight:300;
+    font-size: 33px;
+    font-family: cursive;
+  }
+  .hrdivider1 {
+    position: relative;
+    margin-bottom: 7%;
+    width: 100%;
+    text-align: center;
+  }
+  
+ .hrdivider1 span {
+    position: absolute;
+    top: -30px;
+    left: 18%;
+    background: #fff;
+    padding: 0 20px;
+    font-weight:300;
+    font-size: 33px;
+    font-family: cursive;
+  }
+
+  .hrdivider2 {
+    position: relative;
+    margin-bottom: 1%;
+    margin-top: 6%;
+    width: 100%;
+    text-align: center;
+  }
+  
+ .hrdivider2 span {
+    position: absolute;
+    top: -30px;
+    left: 36%;
+    background: #fff;
+    padding: 0 20px;
+    font-weight:300;
+    font-size: 33px;
+    font-family: cursive;
+    text-align: center;
+  }
+  #logo{
+    text-align: center;
+    margin-bottom: 5%;
+    padding-left: 3%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: #f9f9f9;
+  }
+  .hrdivider3 {
+    position: relative;
+    margin-bottom: 5%;
+    margin-top: 6%;
+    width: 100%;
+    text-align: center;
+  }
+  
+ .hrdivider3 span {
+    position: absolute;
+    top: -30px;
+    left: 45%;
+    background: #fff;
+    padding: 0 20px;
+    font-weight:300;
+    font-size: 33px;
+    font-family: cursive;}
+    .custom{
+        text-align: center;
+        padding-top: 5%;
+        font-weight: 500;
+    }
+    .p-custom{
+        text-align: center;
+        color: black;
+    }
+    #pricing{
+        padding-bottom: 5%;
+    }
+    #footer{
+        padding-bottom: 5%;
+        padding-top: 5%;
+        text-align: center;
+        background-color: black;
+        font-size: 1.2rem;
+    }
+    .footer-text{
+        color: aliceblue;
+        font-size: 1.2rem;
+        padding-top: 3%;
+    }
+    .footer-link{
+        color: aliceblue;
+        padding-left: 2%;
+    }
+    .icon-footer{
+        color: aliceblue;
+    }
